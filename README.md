@@ -25,7 +25,7 @@
 </ol>
 
 
-> <a href="https://www.example.com/my great page](https://eff.org](https://fogen.notion.site/fogen/27-05-22-12-22-QA-Engineer-82f93b5a6fe3444ab02f9ef1d6918218">Ссылка на проект</a>
+> <a href="https://github.com/Skyproportfolio/data-analytics/blob/242649f63be48c763f3165413f84fa6b06c4c0a4/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%961.xlsx">Ссылка на проект</a>
 
 <br> 
 
