@@ -55,7 +55,7 @@
 </ol>
 
 
-> <a href="https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x](https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект</a>
+> <a href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект</a>
 
 
 <br> 
@@ -112,13 +112,9 @@
 <br> 
 
 <p>Проект 8: Геосегментация и анализ в агрегаторе доставки</p> 
-<p>Что нужно было сделать:<p>
-<ol>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ol>
+<p>Что нужно было сделать: изучите динамику показателя конверсии в отдельных гексагонах и в городе в целом с помощью фильтрации.<p>
+  
+> <a href="https://github.com/Skyproportfolio/data-analytics/tree/main/Проект%20№8">Ссылка на проект</a>
 
 > Ссылка на проект: {link_to_project}
 <br> 
